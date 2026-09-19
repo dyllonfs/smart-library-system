@@ -1,0 +1,4 @@
+Printed Book,B001,The Great Gatsby,Available,Scott Fitzgerald,180
+EBook,E001,Python Course,Borrowed,500MB,PDF
+Magazine,M001,National Geographic,Available,Issue 2,2026-01-15
+
